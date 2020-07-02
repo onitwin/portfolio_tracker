@@ -1,6 +1,6 @@
 # project_portfilo_tracker
 
-!Imgur](https://i.imgur.com/Xlbf7KH.jpg)
+![Imgur](https://i.imgur.com/Xlbf7KH.jpg)
 
 ![Imgur](https://i.imgur.com/58nLDkX.jpg?1)
 
